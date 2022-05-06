@@ -1,2 +1,2 @@
 # 05-05PreEntrega
-De momento falta 1 gráfico.
+De momento faltaría 1 gráfico.
